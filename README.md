@@ -1,4 +1,4 @@
- Quiz Interativo para Programadores 
+**Quiz Interativo para Programadores**
 
 Este é um projeto de **quiz online** criado em HTML e CSS, com foco em conceitos básicos de programação e web. Ideal para testar seus conhecimentos de forma leve e interativa!
 
@@ -7,7 +7,7 @@ Este é um projeto de **quiz online** criado em HTML e CSS, com foco em conceito
  Sobre o projeto
 
 O quiz contém perguntas sobre:
-- Linguagens de programação (HTML, JavaScript, Java, etc.)
+- Linguagens de programação (HTML, JavaScript, css.)
 - Conceitos básicos da web
 - Estrutura de URL
 - Segurança com senhas
